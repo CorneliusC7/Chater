@@ -1,0 +1,33 @@
+body{
+    background: black;
+}
+form{
+    position: fixed;
+    margin: 0%;
+    width: 100%;
+}
+#message{
+    width: 500px;
+    border: none;
+    padding: 10px;
+    background: none;
+    color: white;
+    border-radius: 0px;
+    outline: none;
+    border-bottom: 2px solid white ;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+}
+ul{
+    position: absolute;
+    top: 10%;
+    font-family: 'Oswald', sans-serif;
+    text-decoration: none;
+    color: white;
+}
+#libur{
+    border: none;
+    background: none;
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
